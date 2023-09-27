@@ -1,0 +1,83 @@
+{
+    "DIRECTORY - directory":[
+        "FILE - a.txt = 20 byte",
+        "FILE - b.txt = 28 byte",
+        "FILE - c.txt = 35 byte",
+        "FILE - d.txt = 30 byte",
+        "FILE - e.txt = 47 byte",
+        "FILE - f.txt = 27 byte",
+        "FILE - g.txt = 22 byte",
+        "FILE - h.txt = 19 byte",
+        "FILE - i.txt = 37 byte",
+        "FILE - j.txt = 61 byte",
+        "FILE - k.txt = 0 byte",
+        "FILE - l.txt = 32 byte",
+        "FILE - m.txt = 58 byte",
+        "FILE - n.txt = 51 byte",
+        "FILE - o.txt = 66 byte",
+        "FILE - p.txt = 61 byte",
+        "FILE - q.txt = 100 byte",
+        "FILE - r.txt = 49 byte",
+        "FILE - s.txt = 72 byte"
+    ],
+    "DIRECTORY - directory\\dir_1":[
+        "FILE - a_1.txt = 13 byte",
+        "FILE - b_1.txt = 18 byte",
+        "FILE - c_1.txt = 39 byte"
+    ],
+    "DIRECTORY - directory\\dir_1\\dir_1_2":[
+        "FILE - a_1_2.txt = 24 byte",
+        "FILE - b_1_2.txt = 50 byte",
+        "FILE - c_1_2.txt = 57 byte"
+    ],
+    "DIRECTORY - directory\\dir_2":[
+        "FILE - d_2.txt = 57 byte",
+        "FILE - e_2.txt = 67 byte",
+        "FILE - f_2.txt = 72 byte"
+    ],
+    "DIRECTORY - directory\\dir_2\\dir_2_2":[
+        "FILE - d_2_2.txt = 64 byte",
+        "FILE - e_2_2.txt = 64 byte",
+        "FILE - f_2_2.txt = 75 byte"
+    ],
+    "DIRECTORY - directory\\dir_3":[
+        "FILE - h_3.txt = 81 byte",
+        "FILE - i_3.txt = 10 byte",
+        "FILE - j_3.txt = 47 byte"
+    ],
+    "DIRECTORY - directory\\dir_3\\dir_3_2":[
+        "FILE - h_3_2.txt = 39 byte",
+        "FILE - i_3_2.txt = 60 byte",
+        "FILE - j_3_2.txt = 48 byte"
+    ],
+    "DIRECTORY - directory\\dir_4":[
+        "FILE - k_4.txt = 3 byte",
+        "FILE - l_4.txt = 9 byte",
+        "FILE - m_4.txt = 75 byte"
+    ],
+    "DIRECTORY - directory\\dir_4\\dir_4_2":[
+        "FILE - h_4_2.txt = 17 byte",
+        "FILE - i_4_2.txt = 72 byte",
+        "FILE - j_4_2.txt = 8 byte"
+    ],
+    "DIRECTORY - directory\\dir_5":[
+        "FILE - n_5.txt = 14 byte",
+        "FILE - o_5.txt = 14 byte",
+        "FILE - p_5.txt = 28 byte"
+    ],
+    "DIRECTORY - directory\\dir_5\\dir_5_2":[
+        "FILE - n_5_2.txt = 9 byte",
+        "FILE - o_5_2.txt = 29 byte",
+        "FILE - p_5_2.txt = 31 byte"
+    ],
+    "DIRECTORY - directory\\dir_6":[
+        "FILE - q_6.txt = 8 byte",
+        "FILE - r_6.txt = 27 byte",
+        "FILE - s_6.txt = 10 byte"
+    ],
+    "DIRECTORY - directory\\dir_6\\dir_6_2":[
+        "FILE - q_6_2.txt = 5 byte",
+        "FILE - r_6_2.txt = 28 byte",
+        "FILE - s_6_2.txt = 29 byte"
+    ]
+}
